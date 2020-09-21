@@ -1,2 +1,2 @@
 # questions
-tester questions collections
+interview questions in software testing
